@@ -16,7 +16,7 @@ $ git clone
 ```
 
 ```
-Open in a brower of your choice
+Open in a browser of your choice
 ```
 
 ### Tech Used
