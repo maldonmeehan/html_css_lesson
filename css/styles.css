@@ -12,3 +12,33 @@ p {
   line-height: 1.4em;
   text-align: justify;
 }
+
+p.one {
+  background-color: #eeeeee;
+  color: #666666;
+  text-shadow: 1px 1px 0px #000000;
+}
+
+p.two {
+  background-color: #dddddd;
+}
+
+p.one:first-letter {
+  font-size: 200%;
+}
+
+a.link {
+  color: deeppink;
+}
+
+a.visited {
+  color: black;
+}
+
+a.hover {
+  color: purple;
+}
+
+a:active {
+  color: darkcyan;
+}
