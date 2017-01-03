@@ -42,3 +42,9 @@ a.hover {
 a:active {
   color: darkcyan;
 }
+
+.box {
+  height: 300px;
+  width: 400px;
+  background-color: #eeeeee;
+}
