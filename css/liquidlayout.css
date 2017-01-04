@@ -1,0 +1,37 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#content {
+  overflow: auto;
+  height: 100%;
+}
+
+#nav, #feature, #footer {
+  background-color: #efefef;
+  /*padding: 10px;*/
+  margin: 1%;
+}
+
+.column1, .column2, .column3 {
+  background-color: #efefef;
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+}
+
+li {
+  display: inline;
+  padding .5em;
+}
+
+#nav, #footer {
+  padding: 0.5em 0;
+}
+
+#feature, .article {
+  height: 10em;
+  margin-bottom: 1em;
+}
