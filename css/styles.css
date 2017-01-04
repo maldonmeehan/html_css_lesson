@@ -49,7 +49,7 @@ a:active {
   background-color: #eeeeee;
 }
 
-/*book table*/
+/*auction table*/
 table {
   width: 600px;
 }
@@ -76,4 +76,13 @@ tr:hover {
 
 .money {
   text-align: right;
+}
+
+/*empty cells*/
+.empty-cells {
+    border: 1px solid #0088dd;
+
+}
+table.one {
+  empty-cells: hide;
 }
